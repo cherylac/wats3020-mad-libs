@@ -25,7 +25,7 @@ let adjective1 = prompt('Name a word used to describe something.');
 let vehicle = prompt('Name a mode of transportation (e.g. plane,  boat, bike, etc.).');
 
 // TODO: A variable named "vehiclePart" for a part of the vehicle you just named.
-let vehilcePart = prompt('Name a vehicle part.');
+let vehiclePart = prompt('Name a vehicle part.');
 
 // TODO: A variable named "parking" for a location where you park the vehicle you just named.
 let parking = prompt('Name a location where you park the vehicle.');
@@ -34,7 +34,7 @@ let parking = prompt('Name a location where you park the vehicle.');
 let precious = prompt('Name a precious object.');
 
 // TODO: A variable named "noiseMaker" for something that makes a sound.
-let noisMaker = prompt('Name a type of noisemaker.');
+let noiseMaker = prompt('Name a type of noisemaker.');
 
 // TODO: A variable named "crowdBehavior" for something that people do together as a group.
 let crowdBehavior = prompt('Name something people do together as a group.');
