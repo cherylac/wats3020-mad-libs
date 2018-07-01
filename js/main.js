@@ -40,7 +40,7 @@ let noiseMaker = prompt('Name a type of noisemaker.');
 let crowdBehavior = prompt('Name something people do together as a group.');
 
 // TODO: A variable named "adjective2" for a word used to describe something.
-let adjective2 = prompt('Name a word used to describe something.' );
+let adjective2 = prompt('Name a word used to describe something.');
 
 // TODO: A variable named "adjective3" for a word used to describe something.
 let adjective3 = prompt('Name another word used to describe something.');
