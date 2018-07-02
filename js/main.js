@@ -9,70 +9,50 @@
 //
 //
 
-// A variable named "honorific" for honorific title.
+// Prompts will collect data from the user.
+
 let honorific = prompt('Please enter an honorific title (e.g. Mister or Colonel).');
 
-// A variable named "authorName" for authorial attribution.
 let authorName = prompt('What is your full name?');
 
-// A variable named "adjective1" for a word used to describe something.
 let adjective1 = prompt('Name a word used to describe something.');
 
-// A variable named "vehicle" for a mode of transportation (e.g. plane, boat, etc.).
 let vehicle = prompt('Name a mode of transportation (e.g. plane,  boat, bike, etc.).');
 
-// A variable named "vehiclePart" for a part of the vehicle named.
 let vehiclePart = prompt('Name a vehicle part.');
 
-// A variable named "parking" for a location where you park the vehicle named.
 let parking = prompt('Name a location where you park the vehicle.');
 
-// A variable named "precious" for a precious object.
 let precious = prompt('Name a precious object.');
 
-// A variable named "noiseMaker" for something that makes a sound.
 let noiseMaker = prompt('Name a type of noisemaker.');
 
-// A variable named "crowdBehavior" for something that people do together as a group.
 let crowdBehavior = prompt('Name something people do together as a group.');
 
-// A variable named "adjective2" for a word used to describe something.
 let adjective2 = prompt('Name a word used to describe something.');
 
-// A variable named "adjective3" for a word used to describe something.
 let adjective3 = prompt('Name another word used to describe something.');
 
-// A variable named "color" for the name of a color.
 let color = prompt('Name a color.');
 
-// A variable named "familyMember" for the name of a family relationship (e.g. sister, father, etc.).
 let familyMember = prompt('Name a family member (e.g. sister, father, etc.).');
 
-// A variable named "organ" for the name of a body organ (e.g. heart, liver, spleen, etc.).
 let organ = prompt('Name a body organ (e.g. heart, liver, spleen, etc.).');
 
-// A variable named "bodyPart1" for the name of a body part.
 let bodyPart1 = prompt('Name a body part.');
 
-// A variable named "bodyPart2" for the name of a body part.
 let bodyPart2 = prompt('Name another body part.');
 
-// A variable named "bodyPart3" for the name of a body part.
 let bodyPart3 = prompt('Name another body part.');
 
-// A variable named "thing" for an object.
 let thing = prompt('Name an object.');
 
-// A variable named "thing2" for an object you might give somebody you love.
 let thing2 = prompt('Name an object you might give to somebody you love.');
 
-// A variable named "thing3" for an object you might give somebody you like.
 let thing3 = prompt('Name an object ou might give to somebody you like.');
 
-// A variable named "adjective4" for a word used to describe the vehicle.
 let adjective4 = prompt('Name a word used to describe the vehicle.');
 
-// A variable named "adjective5" for a word used to describe the vehicle.
 let adjective5 = prompt('Name another word used to describe the vehicle.');
 
 
@@ -83,12 +63,12 @@ let adjective5 = prompt('Name another word used to describe the vehicle.');
 // generate their own.
 //
 // Prompt the user to collect their favorite number that is not zero.
-// Call this variable "userNumber".
+
 let userNumber = prompt('Enter your favorite number greater than zero.');
 
-// TWO more numbers called "number2" and "number 3".
+// TWO more numbers called "number2" and "number 3"
 // that change the number that the user submitted.
-// 
+
 let number2 = userNumber**4;
 
 let number3 = userNumber * 5;
