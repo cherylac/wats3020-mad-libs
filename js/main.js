@@ -12,7 +12,6 @@
 // A variable named "honorific" for honorific title.
 let honorific = prompt('Please enter an honorific title (e.g. Mister or Colonel).');
 
-
 // A variable named "authorName" for authorial attribution.
 let authorName = prompt('What is your full name?');
 
